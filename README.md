@@ -16,11 +16,13 @@ The system processes student queries, retrieves relevant content from NCERT text
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="./image/WhatsApp Image 2025-12-27 at 23.17.05.jpeg" alt="GyanMitra Screenshot 1" width="300"/>
-  <img src="./image/WhatsApp Image 2025-12-27 at 23.17.07.jpeg" alt="GyanMitra Screenshot 2" width="300"/>
-  <img src="./image/WhatsApp Image 2025-12-27 at 23.17.08.jpeg" alt="GyanMitra Screenshot 3" width="300"/>
-  <img src="./image/WhatsApp Image 2025-12-27 at 23.17.29.jpeg" alt="GyanMitra Screenshot 4" width="300"/>
-  <img src="./image/WhatsApp Image 2025-12-27 at 23.17.33.jpeg" alt="GyanMitra Screenshot 5" width="300"/>
+
+![GyanMitra Screenshot 1](image/WhatsApp%20Image%202025-12-27%20at%2023.17.05.jpeg)
+![GyanMitra Screenshot 2](image/WhatsApp%20Image%202025-12-27%20at%2023.17.07.jpeg)
+![GyanMitra Screenshot 3](image/WhatsApp%20Image%202025-12-27%20at%2023.17.08.jpeg)
+![GyanMitra Screenshot 4](image/WhatsApp%20Image%202025-12-27%20at%2023.17.29.jpeg)
+![GyanMitra Screenshot 5](image/WhatsApp%20Image%202025-12-27%20at%2023.17.33.jpeg)
+
 </div>
 
 ## 🏗️ Architecture
