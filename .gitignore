@@ -1,0 +1,57 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+# Build output
+dist/
+build/
+temp/
+.tmp/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Mobile builds
+android/
+ios/
+*.apk
+*.aab
+
+# Server logs
+logs/
+*.pid
+
+# Misc
+*.zip
+*.mp4
+*.avi
+*.iso
+
+# ===== Python / ML runtime =====
+venv/
+.cache/
+__pycache__/
+
+# ===== Model files =====
+*.gguf
+*.bin
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
+# ===== Ignore models content but keep folder =====
+ncert-doubt-solver-opea/**/models/*
+!ncert-doubt-solver-opea/**/models/.gitkeep
